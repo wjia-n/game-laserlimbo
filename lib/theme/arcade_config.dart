@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'laserlimbosmoothie',
   tip2Id: 'laserlimbopizza',
-  tip1Label: '💛 Buy me a smoothie',
-  tip2Label: '💛 Buy me a pizza',
+  tip1Label: '💛 Laser Limbo smoothie',
+  tip2Label: '💛 Laser Limbo pizza',
 );
