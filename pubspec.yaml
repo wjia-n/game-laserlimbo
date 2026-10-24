@@ -1,7 +1,7 @@
 name: laserlimbo
 description: "Laser Limbo - duck under moving lasers"
 publish_to: 'none'
-version: 1.0.0+2
+version: 1.0.0+3
 
 environment:
   sdk: ^3.13.5
@@ -39,3 +39,7 @@ flutter:
     - assets/sfx/win.wav
     - assets/sfx/lose.wav
     - assets/sfx/music_loop.wav
+  fonts:
+    - family: Michroma
+      fonts:
+        - asset: assets/fonts/Michroma-Regular.ttf
